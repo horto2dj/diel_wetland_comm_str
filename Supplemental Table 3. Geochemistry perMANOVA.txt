@@ -1,0 +1,11 @@
+perMANOVA results of geochemical differences including all wetlands							
+	Df	SumsOfSqs	MeanSqs	F.Model	R2	Pr(>F)	
+Wetland	3	408.71	136.236	36.867	0.43479	0.001	***
+Point	1	31.46	31.46	8.513	0.03347	0.001	***
+Diel	1	85.26	85.259	23.072	0.0907	0.001	***
+Wetland:Point	3	62.43	20.809	5.631	0.06641	0.001	***
+Wetland:Diel	3	32.64	10.879	2.944	0.03472	0.001	***
+Point:Diel	1	10.57	10.569	2.86	0.01124	0.016	*
+Wetland:Point:Diel	3	17.01	5.669	1.534	0.01809	0.099	.
+Residuals	79	291.93	3.695	0.31057			
+Total	94	940	1				
